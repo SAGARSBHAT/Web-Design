@@ -1,0 +1,148 @@
+#header
+{
+    position: fixed;
+    top: 0;
+  width: 100%;
+  left: 0;
+  z-index: 999;
+}
+.con
+{
+    margin-top: 20px;
+    font-size: large;
+    font-style: italic;
+    font-weight: 700;
+    font-family: "cursive"
+
+}
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.con1{
+    background-size: cover;
+    background-color: antiquewhite;
+    height: 30px;
+    text-align: center;
+    color: red;
+}
+.button
+{
+    height: 100px;
+    width: 400px;
+}
+.img
+{
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tile1{
+    background-color:wheat;
+    background-size: cover;
+    height: 200px;
+    margin: 20px;
+    text-align: center;
+
+}
+.tile-2{
+    background-color: silver;
+    height: 300px;
+    margin: 20px;
+    text-align: center;
+
+}
+.imgcon{
+    width: 40%;
+    float: left;
+}
+.text
+{
+    width: 60%;
+    float: left;
+    text-align: left;
+    top: 20px;
+    position: relative;
+    font-style: italic;
+    font-weight: 500;
+}
+.imgcon1{
+    width: 60%;
+    float: left;
+}
+.text1
+{
+    width: 40%;
+    float: left;
+    text-align: left;
+    top: 20px;
+    position: relative;
+    font-style: italic;
+    font-weight: 500;
+}
+.imgcon2{
+    height: 410px;
+    background-size: cover;
+    
+}
+.t1{
+    height: 400px;
+    width:   400px;
+    background-color:whitesmoke;
+    margin: 10px;
+    width: 30%;
+    float: left;
+    margin-left: 50px;
+    
+    
+}
+.t2{
+    height: 400px;
+    width:   400px;
+    background-color: whitesmoke;
+    margin: 10px;
+    width: 30%;
+    float: left;
+    
+}
+.t3{
+    height: 400px;
+    width:   400px;
+    background-color: whitesmoke;
+    margin: 10px;
+    width: 30%;
+    float: left;
+}
+.cont2
+{
+    bottom: 20px;
+    position: relative;
+}
+.button2
+{
+ background-color: blue;
+ border: 4px;
+ border-style: solid;
+ border-color: white;
+
+}
+.button3
+{
+    width: 400px;
+    height: 50px;
+    margin-top: 20px; 
+    font-size: 50px;
+    font-family: monospace;
+}
+.zero
+{
+    font-size: 50px;
+    top: 20px;
+    position: relative;
+    font-family: cursive;
+    bottom: 20px;
+}
+.zero1
+{
+    font-size: 50px;
+}
